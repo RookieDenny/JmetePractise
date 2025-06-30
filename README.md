@@ -1,6 +1,6 @@
 # JMeter Login API 測試練習
 
-### 使用JMeter製作自動化 API 測試作品，針對https://reqres.in/api/login提供的API<br>
+### 使用JMeter製作自動化 API 測試作品，針對 https://reqres.in/api/login 提供的API<br>
 ### 進行多筆帳密測試，並驗證回應是否符合預期<br>
 
 #### 測試說明<br>
